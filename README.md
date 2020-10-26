@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **yogeek/yogeek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄 I like to :
+- Stay up-to-date with everyting related to DevOps and Cloud Native
+- Evangelize DevOps practices and tools
+- Automate all the things ! 
+
+🔭 I’m currently working on :
+- Cloud : AWS, terraform, packer...
+- Containers : Kubernetes, Docker...
+- Observability : 
+  - Monitoring : Prometheus, Grafana
+  - Logging : Elastic Stack
+  - Tracing : Jaeger
+- Service Mesh : Istio
+- CI/CD : Gitlab, Jenkins, Artifactory, Harbor... 
+- GitOps : Flux, Argo (GitOps toolkit), Cluster API...
+
+## Links
+
+* [Linkedin](https://www.linkedin.com/in/gdupin/)
+* [Twitter](https://twitter.com/meyogeek)
+* [Keybase](https://keybase.io/gdupin)
