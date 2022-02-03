@@ -21,15 +21,17 @@ Here are some ideas to get you started:
 - Automate all the things ! 
 
 🔭 I’m currently working on :
-- Cloud : AWS, terraform, packer...
+- Cloud : AWS, Terraform, Packer, Cluster API, Crossplane...
 - Containers : Kubernetes, Docker...
 - Observability : 
   - Monitoring : Prometheus, Grafana
-  - Logging : Elastic Stack
-  - Tracing : Jaeger
+  - Logging : Elastic Stack, Loki
+  - Tracing : Jaeger, Tempo
 - Service Mesh : Istio
 - CI/CD : Gitlab, Jenkins, Artifactory, Harbor... 
-- GitOps : Flux, Argo (GitOps toolkit), Cluster API...
+- GitOps : Flux, ArgoCD (GitOps toolkit)...
+- Progressive Delivery : Argo Rollouts, Flagger
+- SRE : LitmusChaos
 
 ## Links
 
