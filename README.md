@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 - Cloud : AWS, Terraform, Packer, Cluster API, Crossplane...
 - Containers : Kubernetes, Docker...
 - Observability : 
-  - Monitoring : Prometheus, Grafana
+  - Monitoring : Prometheus, Thanos, AlertManager, Grafana
   - Logging : Elastic Stack, Loki
   - Tracing : Jaeger, Tempo
 - Service Mesh : Istio
 - CI/CD : Gitlab, Jenkins, Artifactory, Harbor... 
-- GitOps : Flux, ArgoCD (GitOps toolkit)...
+- GitOps : ArgoCD, Flux...
 - Progressive Delivery : Argo Rollouts, Flagger
-- SRE : LitmusChaos
+- Chaos Engineering : LitmusChaos
 
 ## Links
 
